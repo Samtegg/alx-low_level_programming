@@ -4,7 +4,8 @@
 #include <stdio.h>
 
 /**
- * main - This generates a random number and determines whether it is negative, positive, or zero.
+ * main - This generates a random number and determines whether
+ * it is negative, positive, or zero.
  *
  * Return: Always 0 (Success)
  */
