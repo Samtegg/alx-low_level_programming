@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - This would print the numbers between 0 to 9 
- * and the letters between a to f.
+ * main - This would print the numbers between 
+ * 0 to 9  and the letters between a to f.
  *
  * Return: Always 0 (Success)
  */
