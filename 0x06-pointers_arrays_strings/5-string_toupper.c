@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * string_toupper - this funtiion changes 
- * all lowercase alphabets to uppercase
+ * string_toupper - changes lowercase alphabets to uppercase
  * @n: pointer
  *
  * Return: n
