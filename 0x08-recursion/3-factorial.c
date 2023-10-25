@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-  * factorial - the main function 
+  * factorial - the function
   *
-  * @n: the function's parameter
+  * @n: the function parameter
   *
   * Return: the function n.
   */
